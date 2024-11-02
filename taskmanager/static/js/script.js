@@ -2,10 +2,22 @@ document.addEventListener('DOMContentLoaded', function() {
     // initialisation of the sidenav
     let sidenav = document.querySelectorAll('.sidenav');
     M.Sidenav.init(sidenav);
-  });
 
-  document.addEventListener('DOMContentLoaded', function() {
-    // defensive programming modal
+    // initialisation of modal
     let modal = document.querySelectorAll('.modal');
     M.Modal.init(modal);
+
+    // initialisation of datepicker
+    let datepicker = document.querySelectorAll('.datepicker');
+    M.Datepicker.init(datepicker, {
+        format: "dd mmmm, yyyy",
+        i18n: {done: "Select"} 
+    });
+
+    // initialisation of select
+    let selects = document.querySelectorAll('select');
+    M.FormSelect.init(selects);
+
   });
+
+  
