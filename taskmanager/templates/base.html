@@ -18,10 +18,11 @@
 
     <header>
         <!-- top navbar -->
-        <nav class="orange lighten-1 black-text">
+        <nav class="orange lighten-1">
             <div class="nav-wrapper">
-                <a href="{{ url_for('home') }}" class="brand-logo">FocusForge</a>
-                <a href="#" data-target="mobile-demo" class="sidenav-trigger"><i class="fas fa-bars">Menu</i></a>
+                <a href="{{ url_for('home') }}" class="brand-logo black-text">FocusForge</a>
+                <a href="#" data-target="mobile-demo" class="sidenav-trigger"><i
+                        class="fas fa-bars"></i></a>
                 <ul class="right hide-on-med-and-down">
                     <li><a href="{{ url_for('home') }}">Home</a></li>
                     <li><a href="">New Task</a></li>
@@ -43,9 +44,9 @@
         {% endblock %}
     </main>
 
-    <footer class="page-footer orange lighten-1 black-text">
+    <footer class="page-footer orange lighten-1">
         <div class="footer-copyright">
-            <div class="container">
+            <div class="container black-text">
                 This app is open source! Feel free to explore, use, and customize it as you like. Enjoy and make it your
                 own!
                 <a class="black-text right" href="https://github.com/Al3x-G" target="_blank">Al3x-G</a>
