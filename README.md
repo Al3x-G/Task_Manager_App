@@ -38,8 +38,7 @@ The colour scheme has been thoughtfully selected to enhance focus and engagement
 
 ## User Story
 
-describe what new users, returning users, and frequent users might expect.
-User stories will also serve as a checklist for the Testing section, where you verify each requirement has been met.
+The user story for the app revolves around providing a simple and efficient task management solution for users at any stage of engagement, whether they are new, returning, or frequent users. New users will likely expect an easy onboarding process, where they can quickly add tasks, categorise them, and begin managing their to-dos without any learning curve. The app’s clean, intuitive interface and responsive design make it accessible even for first-time users, ensuring they can start using it right away. Returning users can expect a seamless experience with all their previously entered tasks and categories readily available, allowing them to pick up right where they left off. They may appreciate the app's ability to quickly edit, delete, or update tasks and categories as their needs evolve. Frequent users, on the other hand, will value the efficiency of the app in helping them stay organised and productive, relying on its features to stay on top of their tasks without distraction. Whether managing personal or professional projects, frequent users can expect a highly functional tool that streamlines their daily workflow.
 
 
 ## Features and Wireframe
