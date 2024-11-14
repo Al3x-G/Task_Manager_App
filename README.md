@@ -13,15 +13,27 @@
 ## FocusForge App
 
 ### Project and Customer Goals
-What the project aims to acheive and describe user goals (needs and wants)
+
+This app is designed to simplify task management by allowing users to add tasks and organise them into categories, providing a streamlined approach to productivity. The primary goal of the project is to offer an intuitive, user-friendly experience that enables users to stay organised and focused on completing their to-dos. By categorising tasks, users can prioritise and manage their workload effectively, reducing the chances of overlooking important items. The app caters to user needs by providing a clear and accessible interface that minimises distractions, and it fulfils user wants by offering flexible organisation options to suit a variety of task types and schedules. Ultimately, this software aims to empower users to take control of their tasks, helping them achieve their goals.
+
+
 ### Features and Functionality
-Key features that support user and project goals, Allows users to create, locate, display and edit (CRUD Functionality)
+
+The app offers essential features designed to efficiently manage tasks and categories through the use of CRUD operations—an acronym for Create, Read, Update, and Delete, which are the core functions for managing data in a database. **Create** allows users to add new tasks and categories, ensuring they can keep track of all their to-dos. **Read** enables users to retrieve and view their existing tasks and categories, ensuring easy access to their information at any time. The **Update** function allows users to edit task details or category names, making it easy to keep everything current and relevant. Finally, the **Delete** feature lets users remove tasks or categories that are no longer needed, helping to keep their lists organised and clutter-free. These features work seamlessly together to offer a comprehensive and intuitive way for users to manage their tasks and categories with ease.
+
+
 ### Information Architecture
-How information is organized/ Relational Database structure 
+
+The app is built on a **relational database structure**, where information is organised into tables that are interlinked to efficiently manage tasks and categories. At the core of the system, there are two main entities: tasks and categories. Each task is associated with a specific category, creating a relationship between the two. The tasks table stores information such as task names, descriptions, due dates, urgency and a reference to the category it belongs to. The categories table holds data about the different task categories, such as category names. These tables are linked through a foreign key, allowing tasks to be easily grouped under relevant categories. This relational structure ensures data integrity, simplifies updates, and allows users to view or modify tasks and categories without redundancy. By organising the data in this way, the app offers efficient data retrieval, updating, and management, helping users keep their information well-structured and accessible.
+
 ### Interface and Navigation Design
-look and feel of the site,  Incorporate a main navigation menu and structured layout (Materialize)
+
+The interface and navigation design of the app have been carefully crafted to ensure a seamless experience across both mobile and desktop devices. By incorporating a responsive design using the Materialize front-end framework, the app adjusts to different screen sizes, providing a consistent and user-friendly experience on any device. The main navigation menu is easy to access and intuitive, offering quick access to key sections of the app while maintaining a clean and uncluttered layout. 
+
+
 ### Visual Design and Aesthetics
-look and feel of the site
+
+The colour scheme has been thoughtfully selected to enhance focus and engagement. The use of orange, in particular, evokes feelings of optimism, confidence, and enthusiasm, while also conveying warmth and agreeableness. Depending on its shade, orange can feel fresh, youthful, and creative, which aligns with the app's aim to encourage productivity in an inviting and energising environment. Additionally, the decision to keep the automatic default font was made to maintain a sense of formality, ensuring the design remains professional and easily readable without distraction. This careful combination of design elements ensures that users can navigate the app effortlessly while enjoying a visually appealing and emotionally uplifting experience.
 
 
 ## User Story
