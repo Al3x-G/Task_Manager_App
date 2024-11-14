@@ -60,6 +60,9 @@ On the categories page, the header and footer should remain the same. The primar
 
 On the tasks page, the header and footer should remain the same to ensure consistency throughout the app. There should be an easy-to-use input area to add a task name, description, due date, and the category to which the task should be assigned. Include a centrally located, clearly visible "Add Task" button.
 
+### Responsive Design
+![Responsive_Design](taskmanager/assets/images/responsive.png)
+
 ## Technology
 + This website was made in its entirety using Visual Code Studio
 + Wireframe were made in https://mockflow.com/
