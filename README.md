@@ -100,7 +100,9 @@ I used <a href="https://validator.w3.org/" target="_blank">W3C</a> to validate m
 
 ### Deployment
 
-The site is deployed using Heroku ..............................
+The site is deployed using Heroku.
+
+To deploy my app from GitHub to Heroku, I first ensured that my project was connected to a GitHub repository. After making the necessary changes to the code and committing them locally, I pushed the updates to the GitHub repository using the git push command. Next, I logged into my Heroku account through the Heroku CLI and linked the app to the appropriate GitHub repository by navigating to the Heroku dashboard, selecting the app, and linking it under the "Deploy" tab. I then set up automatic deployment, ensuring that every time changes were pushed to the GitHub repository, they would automatically trigger a new deployment on Heroku. For manual deployment, I used the Heroku CLI, running the command git push heroku main, which pushed the latest changes from the main branch of GitHub to Heroku. Once the push was complete, Heroku automatically built and deployed the app, and I could check the deployment status through the Heroku dashboard. This process ensured that my app was always up to date and successfully deployed.
 
 ### Local Development
 
