@@ -80,13 +80,9 @@ During the development process, I used Chrome Developer Tools to review my app, 
 
 
 ## Code validation
-I used <a href="https://validator.w3.org/" target="_blank">W3C</a> to validate my code.
+I used <a href="https://validator.w3.org/" target="_blank">W3C</a> to validate my code. As I was using a framework for the front end styling, I have not included a one for CSS stylesheets 
 
-![HTML](actual_link_toPhoto)
-
-![css](actual_linktoPhoto)
-
-![photo](actual_linktoPhoto)
+![HTML](taskmanager/assets/images/html_valid.png)
 
 
 ### Lighthouse Report:
@@ -97,16 +93,7 @@ I used <a href="https://validator.w3.org/" target="_blank">W3C</a> to validate m
 ![visual link](actual_linktoPhoto)
 ![visual link](actual_linktoPhoto)
 
-
-I used <a href="websiteUsedToTestGoesHere" target="_blank">nameOfWebsite</a> to validate my files, No serious issues were detected.
-
-Below is my TEST file
-![visual link](actual_linktoPhoto)
-
-Below is my TEST file
-![visual link](actual_linktoPhoto)
  
-
 ## Deployment and Local Development
 
 ### Deployment
