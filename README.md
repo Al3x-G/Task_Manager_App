@@ -62,7 +62,7 @@ On the tasks page, the header and footer should remain the same to ensure consis
 
 ## Technology
 + This website was made in its entirety using Visual Code Studio
-+ Wireframe were made in *** (include link)
++ Wireframe were made in https://mockflow.com/
 + Additional software used to create this website include Chrome for previewing, inspecting and bug testing
 + Code languages used in this project are as follows:
     + HTML for the structure of the webpage 
@@ -75,7 +75,9 @@ On the tasks page, the header and footer should remain the same to ensure consis
 ## Testing
 
 ### Bugs and Fixes 
-explain what was the problem and how you fixed it (example.include an extra space in database url and used student support to fix)
+
+During the development process, I used Chrome Developer Tools to review my app, which helped me identify a number of bugs, particularly typos in the code. While reviewing the app’s deployment, I encountered a significant issue with getting the app successfully deployed to Heroku. I carefully went over all of my code files, checking for any mistakes. When I encountered an error, I turned to Stack Overflow to paste the error message in search of an explanation. Despite my efforts, the problem persisted, so I sought assistance from the student support team at Code Institute. Together, we discovered that the issue stemmed from an extra space in the URL of my database location. Although it seemed like a simple fix, it took several heads reviewing the code to spot the issue. This experience highlighted the importance of thorough debugging and collaboration in resolving even the smallest of errors.
+
 
 ## Code validation
 I used <a href="https://validator.w3.org/" target="_blank">W3C</a> to validate my code.
