@@ -87,11 +87,13 @@ I used <a href="https://validator.w3.org/" target="_blank">W3C</a> to validate m
 
 ### Lighthouse Report:
 
-![visual link](actual_linktoPhoto)
-![visual link](actual_linktoPhoto)
-![visual link](actual_linktoPhoto)
-![visual link](actual_linktoPhoto)
-![visual link](actual_linktoPhoto)
+![Lighthouse Report](taskmanager/assets/images/lighthouse_1.png)
+
+![Lighthouse Report](taskmanager/assets/images/lighthouse_2.png)
+
+![Lighthouse Report](taskmanager/assets/images/lighthouse_3.png)
+
+![Lighthouse Report](taskmanager/assets/images/lighthouse_4.png)
 
  
 ## Deployment and Local Development
