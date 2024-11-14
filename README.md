@@ -31,12 +31,23 @@ User stories will also serve as a checklist for the Testing section, where you v
 
 
 ## Features and Wireframe
-Include wireframes for Mobile and desktop
-### Home Page (Task Page)
-### Categories Page
-### Add/Edit Task Page
-### Add/Edit Category Page
 
+### Home Page 
+![Home Page](taskmanager/assets/images/wireframe_homepage.png)
+
+On the homepage wireframe, I want the menu to be clearly accessible, and the app's name to be prominent and easily noticeable. The main view should display the tasks that have already been created, so that users are immediately presented with what needs to be done upon opening the app—without unnecessary distractions. The footer should remain consistent throughout the app, including an open-source statement and a link to the original creator's GitHub.
+
+
+### Categories Page
+![Categories Page](taskmanager/assets/images/wireframe_category.png)
+
+On the categories page, the header and footer should remain the same. The primary difference should be tiles displaying the created categories, each with options to edit or delete. There should also be a prominently placed, centrally located button to add new categories.
+
+
+### Task Page
+![Task Page](taskmanager/assets/images/wireframe_task.png)
+
+On the tasks page, the header and footer should remain the same to ensure consistency throughout the app. There should be an easy-to-use input area to add a task name, description, due date, and the category to which the task should be assigned. Include a centrally located, clearly visible "Add Task" button.
 
 ## Technology
 + This website was made in its entirety using Visual Code Studio
